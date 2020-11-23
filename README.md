@@ -2,7 +2,13 @@
 
 ## Contributors
 
-This project wouldn't have been made possible if it weren't for my amazing team mates: [Sai Allu](https://github.com/allusai), [Maggie Shi](https://github.com/maggiemshi), [Teddy Lee](https://github.com/leetheod), and [Tran Ngo](https://github.com/tranngo). Sai made sure we're all on track and helped everyone on both front and back ends. Maggie worked on backend ensuring everything regarding interacting with user is flawless. Teddy handled all the interactions that happened with our API calls to Yahoo Finance as well as making sure we have our cucumber tests running smootly. Tran did an amazing job with the front ends. I handled interactions related to account registration/login and getting our Google Charts (almost got HighCharts implemented) to work with our database.
+This project wouldn't have been made possible if it weren't for my amazing team mates: [Sai Allu](https://github.com/allusai), [Maggie Shi](https://github.com/maggiemshi), [Teddy Lee](https://github.com/leetheod), and [Tran Ngo](https://github.com/tranngo). 
+
+* Sai made sure we're all on track and helped everyone on both front and back ends. 
+* Maggie worked on backend ensuring everything regarding interacting with user is flawless. 
+* Teddy handled all the interactions that happened with our API calls to Yahoo Finance as well as making sure we have our cucumber tests running smootly. 
+* Tran did an amazing job with the front ends. 
+* I handled interactions related to account registration/login and getting our Google Charts (almost got HighCharts implemented) to work with our database.
 
 ## Project Info
 
