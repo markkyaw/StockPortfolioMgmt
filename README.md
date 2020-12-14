@@ -8,7 +8,7 @@ This project wouldn't have been made possible if it weren't for my amazing team 
 * Maggie worked on backend ensuring everything regarding interacting with user is flawless. 
 * Teddy handled all the interactions that happened with our API calls to Yahoo Finance as well as making sure we have our cucumber tests running smootly. 
 * Tran did an amazing job with the front ends. 
-* I handled interactions related to account registration/login and getting our Google Charts (almost got HighCharts implemented) to work with our database.
+* I handled interactions (front and back-end) related to account registration/login and getting our Google Charts (almost got HighCharts implemented) to work with our back-end and database.
 
 ## Project Info
 
